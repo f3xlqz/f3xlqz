@@ -1,5 +1,5 @@
 <h1>Introduction</h1>
-Welcome to my GitHub repository! I'm thrilled to share my projects and contributions with you. Here's a bit about myself
+Welcome to my GitHub repository! I want to be a software developer.
 
 <h1>Languages</h1>
 <div>
